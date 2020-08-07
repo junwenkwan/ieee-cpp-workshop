@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 
-const double pi = 3.14159; // constant
+const double PI = 3.14159; // constant
 
 int main()
 {
@@ -18,7 +18,7 @@ int main()
     std::cout << "Hello World!" << std::endl;
     std::cout << "Print c: " << c << std::endl;
     std::cout << "Print string: " << my_string << std::endl;
-    std::cout << "Area of a circle: " << 2 * pi * c << std::endl;
+    std::cout << "Area of a circle: " << 2 * PI * c << std::endl;
     std::cout << "Conditional operator: " << conditional_op << std::endl;
 
     // conditional statement
