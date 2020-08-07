@@ -2,7 +2,7 @@
 #include<string>
 
 template<typename U>
-void printmessage(U inp)
+void printMessage(U inp)
 {
     std::cout << "Type: "<< typeid(inp).name() << " Value: " << inp << std::endl;
 }
@@ -39,9 +39,9 @@ int main ()
     
     std::string mystring = "This is a string";
 
-    printmessage<int>(o_int);
-    printmessage<double>(o_double);
-    printmessage<std::string>(mystring);
+    printMessage<int>(o_int);
+    printMessage<double>(o_double);
+    printMessage<std::string>(mystring);
 
     Array<int, 5> myArray;
     std::cout << "Size of array: "<< myArray.GetSize() << std::endl;
