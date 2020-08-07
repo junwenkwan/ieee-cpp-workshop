@@ -53,5 +53,5 @@ int main ()
     pass_by_reference(x, y);
     std::cout << "Pass by reference" << std::endl;
     std::cout << "x: " << x << " " << "y: " << y << std::endl;
-
+    return 0;
 }
