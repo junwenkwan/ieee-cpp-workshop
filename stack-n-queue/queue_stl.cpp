@@ -1,13 +1,12 @@
 #include <iostream> 
 #include <queue> 
   
-void showQueue(std::queue <int> gq) 
+void showQueue(std::queue <int> q) 
 { 
-    std::queue <int> g = gq; 
-    while (!g.empty()) 
+    while (!q.empty()) 
     { 
-        std::cout << g.front(); 
-        g.pop(); 
+        std::cout << q.front(); 
+        q.pop(); 
     } 
 } 
   
