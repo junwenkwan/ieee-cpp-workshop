@@ -18,7 +18,7 @@
 <h3>YouTube Links</h3>
 <p>Here you will find links to recordings of past workshops</p>
 <ul>
-  <li><a href="https://youtu.be/Lpor0FDjmMo">Trees Workshop</a></li>
+  <li><a href="https://youtu.be/Lpor0FDjmMo">Trees </a></li>
   <li>LCA and Range Query</li>
 </ul>
 
