@@ -11,7 +11,7 @@
 <ul>
   <li><a href="https://docs.google.com/presentation/d/1JK_c00H3rGJikqJgmDcPzHSikWTfJJOrGkUs4iGdUBU/edit?usp=sharing">Stacks and Queues</a></li>
   <li><a href="https://docs.google.com/presentation/d/1x-sCB0y6WZFQnReq_zebO9l87yKy0KXM0orsWLbfeSs/edit?usp=sharing">Trees</a></li>
-  <li>LCA and Range Query</li>
+  <li><a href="https://docs.google.com/presentation/d/1dfxWQyzU1IYumlMHuNR1AUz3mL0CXcHJPP3hUwJMJR8/edit?usp=sharing">LCA and Range Query</a></li>
 </ul>
 
 
