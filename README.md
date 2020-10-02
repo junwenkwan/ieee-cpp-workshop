@@ -3,7 +3,7 @@
 <p>Welcome! Here you will find the supporting materials for the C++ Workshops that 
   <a href="https://www.facebook.com/IEEEMonashStudentBranch">IEEE Monash University Student branch
   </a>
-   has held with Shizhe Zhao Shizhe ( Head of Monash Competitive Programming ).
+   has held with Shizhe Zhao ( Head of Monash Competitive Programming ).
 </p>
 
 <h3>Workshop Slides</h3>
