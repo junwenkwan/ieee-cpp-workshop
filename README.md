@@ -1,9 +1,8 @@
 # C++ Workshop Series Repository 
 
 <p>Welcome! Here you will find the supporting materials for the C++ Workshops that 
-  <a href="https://www.facebook.com/IEEEMonashStudentBranch">IEEE Monash University Student branch
-  </a>
-   has held with Shizhe Zhao ( Head of Monash Competitive Programming ).
+  <a href="https://www.facebook.com/IEEEMonashStudentBranch">IEEE Monash University Student branch</a>
+   has held with Shizhe Zhao (Head of Monash Competitive Programming).
 </p>
 
 <h3>Workshop Slides</h3>
@@ -19,7 +18,7 @@
 <p>Here you will find links to recordings of past workshops</p>
 <ul>
   <li><a href="https://youtu.be/Lpor0FDjmMo">Trees </a></li>
-  <li>LCA and Range Query</li>
+  <li><a href="https://youtu.be/E0GgilUtB1U">LCA and Range Query</a></li>
 </ul>
 
 <h3>IDE</h3>
@@ -34,5 +33,4 @@
 <ul>
   <li><a href="http://www.cplusplus.com/doc/tutorial/">cplusplus.com</a></li>
   <li><a href="https://www.geeksforgeeks.org/c-plus-plus/">GeeksforGeeks</a></li>
-  <li><a href="https://www.youtube.com/user/TheChernoProject">The Cherno</a></li>
 </ul>
